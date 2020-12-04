@@ -1,0 +1,28 @@
+body{
+    display: grid;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #333399, #ff00cc);
+    justify-content: center;
+}
+
+.Content{
+    width: 80vw;
+}
+.title{
+    text-align: center;
+    border-bottom: 2px solid black;
+
+}
+.About{
+    text-align: center;
+}
+.About img{
+    padding-top: 100px;
+    padding-bottom:90px ;
+}
+
+.Text{
+    font-size: 25px;
+}
+
